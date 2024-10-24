@@ -73,6 +73,14 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS5-PCB_Designs](https://github.com/BIRDSOpenSource/BIRDS5-PCB_Designs)
 * [BIRDS5-Source_Codes](https://github.com/BIRDSOpenSource/BIRDS5-Source_Codes)
 
+## Let's take a look at the BIRDSX repositories.
+* [BIRDSX-CAD](https://github.com/BIRDSOpenSource/BIRDSX-CAD)
+* [BIRDSX-Parts_list](https://github.com/BIRDSOpenSource/BIRDSX-Parts_list)
+* [BIRDSX-Procedures_Reports](https://github.com/BIRDSOpenSource/BIRDSX-Procedures_Reports)
+* [BIRDSX-PCB_Designs](https://github.com/BIRDSOpenSource/BIRDSX-PCB_Designs)
+* [BIRDSX-Source_Codes](https://github.com/BIRDSOpenSource/BIRDSX-Source_Codes)
+* [BIRDSX-Source_Codes](https://github.com/BIRDSOpenSource/BIRDSX-SolarPanel)
+
 ## I like this project, can I help you?
 You are welcome 🙂
 
