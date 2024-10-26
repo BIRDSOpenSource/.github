@@ -80,7 +80,7 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDSX-APRS-SM](https://github.com/BIRDSOpenSource/BIRDSX-APRS-SM)
 * [BIRDSX-Solar_Panels](https://github.com/BIRDSOpenSource/BIRDSX-SolarPanel)
 * [BIRDSX-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDSX-ProceduresAndReports)
-
+* [BIRDSX-Antenna Panel](https://github.com/BIRDSOpenSource/BIRDSX-AntennaPanel)
 ## I like this project, can I help you?
 You are welcome 🙂
 
