@@ -3,7 +3,7 @@
 The BIRDS program, developed by Kyushu Institute of Technology, is an educational initiative focused on CubeSat development. 
 This repository serves as a central hub for open-sourcing files, code, and designs from the BIRDS program, enabling other entities to utilize and contribute to the advancement of CubeSat technology. The BIRDS Open Source project is committed to demonstrating lean satellite development that is well documented, easy to adapt and debug, and that caters to the needs of the entire satellite development workflow, from satellite design configurations to ground station data collection and analysis. 
 
-Take a peek at [the website for BIRDS Open Source](https://birdsopensource.github.io/) for more information that may be relelvant to you. We also have a   to discuss various issues related to the satellite bus, past webinar recordings and presentations [can be found here](https://birds-project.com/open-source/).
+Take a peek at [the website for building a satellite with the BIRDS bus](https://birdsopensource.github.io/Build-A-Satellite/) for more information that may be relelvant to you. We also have a   to discuss various issues related to the satellite bus, past webinar recordings and presentations [can be found here](https://birds-project.com/open-source/).
 
 You can click this button to 
 <a href="https://lean-sat.org/opensource/"> 
