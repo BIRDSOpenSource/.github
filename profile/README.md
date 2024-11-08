@@ -77,7 +77,7 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDSX-GS](https://github.com/BIRDSOpenSource/BIRDSX-GS)
 * [BIRDSX-COM](https://github.com/BIRDSOpenSource/BIRDSX-COM)
 * [BIRDSX-PCB_Design](https://github.com/BIRDSOpenSource/BIRDSX-PCB_Design)
-* [BIRDSX-Source_Codes](https://github.com/BIRDSOpenSource/BIRDSX-Source_Codes)
+* [BIRDSX-OBC](https://github.com/BIRDSOpenSource/BIRDSX-OBC)
 * [BIRDSX-APRS-SM](https://github.com/BIRDSOpenSource/BIRDSX-APRS-SM)
 * [BIRDSX-Solar_Panels](https://github.com/BIRDSOpenSource/BIRDSX-SolarPanel)
 * [BIRDSX-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDSX-ProceduresAndReports)
