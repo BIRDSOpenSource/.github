@@ -74,16 +74,18 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS5-Source_Codes](https://github.com/BIRDSOpenSource/BIRDS5-Source_Codes)
 
 ## Let's take a look at the BIRDSX repositories.
-* [BIRDSX-GS](https://github.com/BIRDSOpenSource/BIRDSX-GS)
+
 * [BIRDSX-COM](https://github.com/BIRDSOpenSource/BIRDSX-COM)
-* [BIRDSX-PCB_Design](https://github.com/BIRDSOpenSource/BIRDSX-PCB_Design)
+* [BIRDSX-BPB](https://github.com/BIRDSOpenSource/BIRDSX-BPB)
 * [BIRDSX-OBC](https://github.com/BIRDSOpenSource/BIRDSX-OBC)
-* [BIRDSX-APRS-SM](https://github.com/BIRDSOpenSource/BIRDSX-APRS-SM)
+* [BIRDSX-CAD](https://github.com/BIRDSOpenSource/BIRDSX-CAD)
+* [BIRDSX-PCB_Design](https://github.com/BIRDSOpenSource/BIRDSX-PCB_Design)
 * [BIRDSX-Solar_Panels](https://github.com/BIRDSOpenSource/BIRDSX-SolarPanel)
 * [BIRDSX-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDSX-ProceduresAndReports)
 * [BIRDSX-Antenna Panel](https://github.com/BIRDSOpenSource/BIRDSX-AntennaPanel)
-* [BIRDSX-CAD](https://github.com/BIRDSOpenSource/BIRDSX-CAD)
+* [BIRDSX-GS](https://github.com/BIRDSOpenSource/BIRDSX-GS)
 * [BIRDSX-Ground-Terminal](https://github.com/BIRDSOpenSource/BIRDSX-Ground-Terminal)
+* [BIRDSX-APRS-SM](https://github.com/BIRDSOpenSource/BIRDSX-APRS-SM)
 * [BIRDSX-APRS-reference](https://github.com/BIRDSOpenSource/BIRDSX-APRS-reference)
 
 ## I like this project, can I help you?
