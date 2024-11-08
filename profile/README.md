@@ -83,6 +83,9 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDSX-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDSX-ProceduresAndReports)
 * [BIRDSX-Antenna Panel](https://github.com/BIRDSOpenSource/BIRDSX-AntennaPanel)
 * [BIRDSX-CAD](https://github.com/BIRDSOpenSource/BIRDSX-CAD)
+* [BIRDSX-Ground-Terminal](https://github.com/BIRDSOpenSource/BIRDSX-Ground-Terminal)
+* [BIRDSX-APRS-reference](https://github.com/BIRDSOpenSource/BIRDSX-APRS-reference)
+
 ## I like this project, can I help you?
 You are welcome 🙂
 
