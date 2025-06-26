@@ -35,10 +35,16 @@ For example, the BIRDS BUS uses a distributed system design, not for its perform
 ## Organisation structure
 This treasure trove of information can seem quite daunting to someone on first encounter, so let's go through the repositories we have in this organisation one by one so you can find what you need with ease.
 
-If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation) is readily available in its own repository with the complementary Interface Control documents, both in `English` and `Japanese`.
+If you're curious about the BIRDS program itself, the [BIRDS Program Textbook](http://birds-project.com/mext/pdf/Digital_Textbook_G_2021JUL06.pdf) is readily available in its own repository with the complementary Interface Control documents, both in `English` and `Japanese`.
 
 The general organisation of repositories that we have adopted is sectional. So each segment of each satellite has its own repository.
 For example you will find that for each subsystem of a satellite, is a dedicated repository. The open sourcing of the BIRDS program started after the third generation of the satellite so that is where our documentation starts.
+
+## Miscellaneous documents.
+* [BIRDS-GS_Software](https://github.com/BIRDSOpenSource/BIRDS-GS_software)
+* [BIRDS-GeneralDocumentation](https://github.com/BIRDSOpenSource/BIRDS-GeneralDocumentation)
+* [EPS Dataset](https://github.com/BIRDSOpenSource/EPS_dataset)
+* [BIRDS-FAQ-References](https://github.com/BIRDSOpenSource/BIRDS-FAQ-References)
 
 ## Let's take a look at the BIRDS3 repositories.
 > [!NOTE]
@@ -55,7 +61,6 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS3-AntennaPanel](https://github.com/BIRDSOpenSource/BIRDS3-AntennaPanel)
 
 ## Let's take a look at the BIRDS4 repositories.
-
 * [BIRDS4-ProceduresAndReports](https://github.com/BIRDSOpenSource/BIRDS4-ProceduresAndReports)
 * [BIRDS4-COM](https://github.com/BIRDSOpenSource/BIRDS4-COM)
 * [BIRDS4-SolarPanel](https://github.com/BIRDSOpenSource/BIRDS4-SolarPanel)
@@ -74,7 +79,6 @@ For example you will find that for each subsystem of a satellite, is a dedicated
 * [BIRDS5-Source_Codes](https://github.com/BIRDSOpenSource/BIRDS5-Source_Codes)
 
 ## Let's take a look at the BIRDSX repositories.
-
 * [BIRDSX-COM](https://github.com/BIRDSOpenSource/BIRDSX-COM)
 * [BIRDSX-BPB](https://github.com/BIRDSOpenSource/BIRDSX-BPB)
 * [BIRDSX-OBC](https://github.com/BIRDSOpenSource/BIRDSX-OBC)
